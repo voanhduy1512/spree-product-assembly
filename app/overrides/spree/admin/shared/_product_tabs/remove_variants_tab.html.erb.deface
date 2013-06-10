@@ -1,4 +1,6 @@
-<!-- surround_contents "[data-hook=admin_product_tabs] li:nth-child(3)" -->
+<!-- surround_contents "[data-hook=admin_product_tabs] li:nth-child(3)"
+original 'fed4c56d732c2b0e6349a15950e8c4403d267387'
+-->
 
 <% if @product.assembly? %>
 <% else %>
