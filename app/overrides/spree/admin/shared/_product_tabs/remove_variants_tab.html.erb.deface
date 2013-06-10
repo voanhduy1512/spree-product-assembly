@@ -1,0 +1,6 @@
+<!-- surround_contents "[data-hook=admin_product_tabs] li:nth-child(3)" -->
+
+<% if @product.assembly? %>
+<% else %>
+  <%= render_original %>
+<% end %>
